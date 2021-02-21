@@ -26,7 +26,7 @@
         box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
     }
     input {
-        background-color: rgb(112, 228, 89);
+        background-color: rgb(198, 230, 192);
         padding: 10px;
         font-size: 14px;
         color: black;
