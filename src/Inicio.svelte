@@ -5,7 +5,7 @@
 <h1>Gestión Olivar Frontend</h1>
 <p>
     <small>
-        <b>Progressive Web App (PWA)</b>
+        <b>Single Page Application (SPA)</b>
     </small>
 </p>
 <p>
