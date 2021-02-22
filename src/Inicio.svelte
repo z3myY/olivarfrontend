@@ -2,7 +2,7 @@
     import { Link } from "svelte-routing";
 </script>
 
-<h1>Gestión olivares Frontend</h1>
+<h1>Gestión Olivar Frontend</h1>
 <p>
     <small>
         <b>Progressive Web App (PWA)</b>
